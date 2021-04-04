@@ -6,5 +6,5 @@ It is a time elapse between the arrival of the object or person and one followin
 # Arrival Time
 The time at which a public conveyance is scheduled to arrive at a given destination.
 
-
+# Solving process
 Here this code is about to find arrival time from customer number and interarrival time.Here i used for loop to implement the code . I took the value of customer no and interarrival time in console and it gave the arrival time.This is C language code.
